@@ -54,7 +54,7 @@ pnpm install
 Publish the package:
 
 ```shell
-pnpm publish
+pnpm publish --tag latest
 ```
 
 ### Resources
