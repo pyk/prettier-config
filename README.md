@@ -36,6 +36,27 @@ Add the following fields in your `package.json`:
 Then you can use `pnpm prettier:check` or `npm run prettier:check` to check the
 file formatting.
 
+### Development
+
+Clone the repo:
+
+```shell
+git clone git@github.com:pyk/prettier-config.git
+cd prettier-config/
+```
+
+Install the dependencies:
+
+```shell
+pnpm install
+```
+
+Publish the package:
+
+```shell
+pnpm publish
+```
+
 ### Resources
 
 -   [What is prettier?](https://pyk.sh/what-is-prettier)
