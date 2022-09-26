@@ -1,0 +1,34 @@
+{
+    "name": "@pyk/prettier-config",
+    "version": "1.0.0",
+    "description": "pyk's personal prettier config",
+    "main": "index.js",
+    "license": "MIT",
+    "homepage": "https://pyk.sh/create-shareable-prettier-configuration/",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pyk/prettier-config.git"
+    },
+    "bugs": {
+        "url": "https://github.com/pyk/prettier-config/issues"
+    },
+    "author": {
+        "name": "pyk",
+        "email": "gm@pyk.sh",
+        "url": "https://github.com/pyk"
+    },
+    "keywords": [
+        "prettier",
+        "prettier-config"
+    ],
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "prettier:check": "prettier --check ."
+    },
+    "prettier": "./index.js",
+    "devDependencies": {
+        "prettier": "2.7.1"
+    }
+}
