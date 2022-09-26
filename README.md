@@ -38,4 +38,5 @@ file formatting.
 
 ### Resources
 
+-   [What is prettier?](https://pyk.sh/what-is-prettier)
 -   [How to create shareable or reusable prettier configuration](https://pyk.sh/create-shareable-prettier-configuration/)
